@@ -1,3 +1,3 @@
 # Lit SASS Plugin Module for Deno ESBuild
 
-This plugin resolves sass file imports for Lit web components.
+This plugin resolves scss file imports for Lit web components.
